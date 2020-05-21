@@ -1,6 +1,6 @@
 {
-  "name": "tree-extra-tc",
-  "version": "1.0.0",
+  "name": "tree-extra-ry",
+  "version": "2.0.0",
   "description": "element重新封装树(复选专用)",
   "main": "index.vue",
   "scripts": {

@@ -1,6 +1,6 @@
 {
-  "name": "search-form-tc",
-  "version": "1.0.0",
+  "name": "search-form-ry",
+  "version": "2.0.0",
   "description": "查询条件模板",
   "main": "index.vue",
   "scripts": {

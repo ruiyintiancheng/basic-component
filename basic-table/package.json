@@ -1,6 +1,6 @@
 {
-  "name": "basic-table-tc",
-  "version": "1.0.0",
+  "name": "basic-table-ry",
+  "version": "2.0.1",
   "description": "列表模板",
   "main": "index.vue",
   "scripts": {
