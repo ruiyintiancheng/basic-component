@@ -1,0 +1,15 @@
+{
+  "name": "basic-table-tc",
+  "version": "1.0.0",
+  "description": "列表模板",
+  "main": "index.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincy",
+  "license": "ISC",
+  "dependencies": {},
+  "publishConfig" : {
+    "registry" : "http://39.96.94.120:8081/repository/npm-internal/"
+  }
+}

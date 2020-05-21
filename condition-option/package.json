@@ -1,0 +1,17 @@
+{
+  "name": "condition-option-tc",
+  "version": "1.0.0",
+  "description": "组件类型",
+  "main": "index.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincy",
+  "license": "ISC",
+  "dependencies": {
+    "@riophae/vue-treeselect": "0.0.37"
+  },
+  "publishConfig": {
+    "registry": "http://39.96.94.120:8081/repository/npm-internal/"
+  }
+}
